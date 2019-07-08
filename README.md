@@ -7,7 +7,7 @@ Department：臺大圖資二<br />
 Intro：嗨，大家好，我是凌麗
 ## Schedule
 ### [Week1-1 07/08]
-In Class: - [R markdown](https://github.com/lingli518/107-summer/blob/master/week1-1/datascience1.html)
+In Class: - [R markdown](https://github.com/lingli518/107-summer/blob/master/week1-1/datascience1.html) <br />
 At Home:<br />
 ### [Week1-2 07/11]
 In Class:<br />
